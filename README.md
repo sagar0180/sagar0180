@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sagar Nagarale, a Data Ecience enthusiast from India.
+- 👋 Hi, I’m Sagar Nagarale, a Data Science enthusiast from India.
 - 👀 I’m interested in to leverage machine learning and data analytics to extract meaningful insights.
 - 🌱 I’m Proficient in data processing, data modelling, and data visualizations techniques to meet business needs.
 - 💞️ I’m Motivated enhance my experience through continuous learning.
